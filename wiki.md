@@ -35,9 +35,9 @@ Wildfires are *uncontrolled fires* that burn in natural areas like forests and g
 - **Aerial firefighting** with water and retardants  
 
 ## See also
-- [10 Tips to Prevent Wildfires | U.S. Department of the Interior](https://www.doi.gov/blog/10-tips-prevent-wildfires)
+- [10 Tips to Prevent Wildfires \| U.S. Department of the Interior](https://www.doi.gov/blog/10-tips-prevent-wildfires)
 - [Wildfire mitigation](https://www.eaton.com/us/en-us/products/utility-grid-solutions/wildfire-mitigation.html)
-- [Safe and Effective Wildfire Response | US Forest Service](https://www.fs.usda.gov/managing-land/fire/response)
+- [Safe and Effective Wildfire Response \| US Forest Service](https://www.fs.usda.gov/managing-land/fire/response)
 
 ## References
 1. [Wildfire - Wikipedia](https://en.wikipedia.org/wiki/Wildfire)
